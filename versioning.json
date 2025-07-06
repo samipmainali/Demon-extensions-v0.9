@@ -1,12 +1,12 @@
 {
-  "buildTime": "2025-07-06T06:33:59.881Z",
+  "buildTime": "2025-07-06T07:23:04.783Z",
   "builtWith": {
     "toolchain": "1.0.0-alpha.53",
     "types": "1.0.0-alpha.53"
   },
   "repository": {
-    "name": "Demon Extension (1.0)",
-    "description": "Paperback extensions for different websites. Maintained by SamipMainali."
+    "name": "Demon Extension v0.9",
+    "description": "Paperback v0.9 extensions for different websites. Maintained by SamipMainali."
   },
   "sources": [
     {
