@@ -1,1 +1,1 @@
-Vist (Demon-extensions-v0.9)[https://samipmainali.github.io/Demon-extensions-v0.9/] to install
+Vist [Demon-extensions-v0.9](https://samipmainali.github.io/Demon-extensions-v0.9/) to install
