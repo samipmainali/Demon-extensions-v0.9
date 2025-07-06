@@ -1,0 +1,47 @@
+{
+  "buildTime": "2025-07-06T06:33:59.881Z",
+  "builtWith": {
+    "toolchain": "1.0.0-alpha.53",
+    "types": "1.0.0-alpha.53"
+  },
+  "repository": {
+    "name": "Demon Extension (1.0)",
+    "description": "Paperback extensions for different websites. Maintained by SamipMainali."
+  },
+  "sources": [
+    {
+      "name": "GalaxyAction",
+      "description": "Extension that pulls content from galaxyaction.net.",
+      "version": "1.0.0",
+      "icon": "icon.png",
+      "language": "🇬🇧",
+      "contentRating": "MATURE",
+      "badges": [],
+      "capabilities": 117,
+      "developers": [
+        {
+          "name": "samipmainali",
+          "github": "https://github.com/samipmainali"
+        }
+      ],
+      "id": "GalaxyAction"
+    },
+    {
+      "name": "Zzizz",
+      "description": "Extension that pulls content from zzizz.xyz.",
+      "version": "1.0.0",
+      "icon": "icon.png",
+      "language": "🇺🇸",
+      "contentRating": "MATURE",
+      "badges": [],
+      "capabilities": 101,
+      "developers": [
+        {
+          "name": "samipmainali",
+          "github": "https://github.com/samipmainali"
+        }
+      ],
+      "id": "Zzizz"
+    }
+  ]
+}
